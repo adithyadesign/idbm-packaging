@@ -11,7 +11,7 @@ permalink: /consumer-research/
 </div>
 <div class="block">
   <h3 class="block__title">30</h3>
-  <p class="block__text">Counties</p>
+  <p class="block__text">Countries</p>
 </div>
 <div class="block">
   <h3 class="block__title">10</h3>
